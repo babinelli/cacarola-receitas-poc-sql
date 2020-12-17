@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "OrderForm", "OrderForm\OrderForm.ssmssqlproj", "{B6467880-9562-4D9F-BBD0-53B31709E1CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6467880-9562-4D9F-BBD0-53B31709E1CB}.Default|Default.ActiveCfg = Default
+		{D2142A66-445C-4FD4-87C4-64BC85C63D9A}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2888E115-9840-4AB6-83BA-78B1BAF91818}
+	EndGlobalSection
+EndGlobal
